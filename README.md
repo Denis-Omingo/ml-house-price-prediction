@@ -2,13 +2,13 @@
 markdown
 Copy
 Edit
-# House Price Prediction
+ House Price Prediction
 
 This project is an end-to-end machine learning regression task that predicts house prices using the Ames Housing Dataset. The goal is to explore, clean, and model the data to generate accurate price estimates based on various features like location, area, construction year, number of rooms, and more.
 
 ---
 
-## 📌 Project Highlights
+  Project Highlights
 
 - Data preprocessing and feature engineering
 - Exploratory Data Analysis (EDA) with visualization
@@ -19,14 +19,14 @@ This project is an end-to-end machine learning regression task that predicts hou
 
 ---
 
-##  Dataset
+  Dataset
 
 - Source: [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 - Files used: `train.csv`
 
 ---
 
-## 🛠 Tools and Libraries
+  Tools and Libraries
 
 - Python 3
 - Pandas & NumPy
@@ -37,7 +37,7 @@ This project is an end-to-end machine learning regression task that predicts hou
 
 ---
 
-##  Exploratory Data Analysis (EDA)
+  Exploratory Data Analysis (EDA)
 
 - Visualized distribution of target variable `SalePrice`
 - Correlation matrix to identify important predictors
@@ -46,7 +46,7 @@ This project is an end-to-end machine learning regression task that predicts hou
 
 ---
 
-##  Models Used
+  Models Used
 
 | Model              | Description                        |
 |-------------------|------------------------------------|
@@ -70,7 +70,7 @@ Edit
 
 ---
 
-##  How to Use
+  How to Use
 
 1. Clone the repository:
 ```bash
